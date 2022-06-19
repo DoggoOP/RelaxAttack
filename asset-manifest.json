@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RelaxAttack/static/css/main.6ca31094.css",
+    "main.js": "/RelaxAttack/static/js/main.663cfdee.js",
+    "static/js/787.32fd1ab9.chunk.js": "/RelaxAttack/static/js/787.32fd1ab9.chunk.js",
+    "index.html": "/RelaxAttack/index.html",
+    "main.6ca31094.css.map": "/RelaxAttack/static/css/main.6ca31094.css.map",
+    "main.663cfdee.js.map": "/RelaxAttack/static/js/main.663cfdee.js.map",
+    "787.32fd1ab9.chunk.js.map": "/RelaxAttack/static/js/787.32fd1ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ca31094.css",
+    "static/js/main.663cfdee.js"
+  ]
+}
