@@ -1,0 +1,135 @@
+.back{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+  
+  }
+  
+  main{
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  
+  .page{
+    color: white;
+  }
+  
+  a{
+    line-height:0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    color: white;
+  }
+  
+  .timer-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .timer {
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .text {
+    color: #aaa;
+  }
+  
+  .value {
+    font-size: 40px;
+  }
+  
+  .info {
+    max-width: 360px;
+    margin: 40px auto 0;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .start {
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+    background: white;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/27/27185.png');
+    background-size: cover;
+    justify-content: center;
+  }
+  
+  .image-gallery-slide img{
+    height: 200px;
+  }
+  
+  .sudokus > iframe{
+    margin: 15px;
+  }
+  
+  .videos > iframe{
+    margin: 20px;
+  }
+  
+  .container {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 22px;
+    font-family: sans-serif;
+    width: 30%;
+    flex-direction: column;
+    background-color: #f6e58d;
+    outline: none;
+  }
+  
+  .line-wrap::after{
+    content: "";
+    width: 15px;
+    height: 15px;
+    background-color: white;
+  }
+  
+  .line {
+    width: 100%;
+    height: 25px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(41, 41, 41);
+  }
+  
+  button {  
+    color: lawngreen;
+    background: transparent;
+    transition: 0.25s;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 1em 2em;
+  }
+  
+  .back:hover,
+  .back:focus {
+    box-shadow: inset 0 0 0 2em seagreen;
+  }
+  
+  .label {
+    font-size: 22px;
+  
+  }
+  
+  form {
+    margin: 0 auto;
+    padding: 0;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    width: 310px;
+  }
+  
+  .canwidth{
+    margin: 40px auto;
+  }
