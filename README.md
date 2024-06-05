@@ -41,7 +41,7 @@ To get started with RelaxAttack, follow these steps:
 - **Implement Advice:** Use the tips to improve your relaxation techniques and mental health.
 
 ## Live Demo
-Users can use the app here: [RelaxAttack](https://isitusnoamow.github.io)
+Users can use the app here: [RelaxAttack](doggoop.github.io/RelaxAttack/)
 
 ## Contributing
 We welcome contributions from the community! To contribute to RelaxAttack, please follow these steps:
